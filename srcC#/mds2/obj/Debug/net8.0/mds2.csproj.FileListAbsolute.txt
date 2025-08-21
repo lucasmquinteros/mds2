@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\mds2\mds2\mds2\bin\Debug\net8.0\mds2.exe
+C:\Users\lmartiniquinteros\mds2\mds2\mds2\bin\Debug\net8.0\mds2.deps.json
+C:\Users\lmartiniquinteros\mds2\mds2\mds2\bin\Debug\net8.0\mds2.runtimeconfig.json
+C:\Users\lmartiniquinteros\mds2\mds2\mds2\bin\Debug\net8.0\mds2.dll
+C:\Users\lmartiniquinteros\mds2\mds2\mds2\bin\Debug\net8.0\mds2.pdb
+C:\Users\lmartiniquinteros\mds2\mds2\mds2\obj\Debug\net8.0\mds2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\mds2\mds2\mds2\obj\Debug\net8.0\mds2.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\mds2\mds2\mds2\obj\Debug\net8.0\mds2.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\mds2\mds2\mds2\obj\Debug\net8.0\mds2.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\mds2\mds2\mds2\obj\Debug\net8.0\mds2.dll
+C:\Users\lmartiniquinteros\mds2\mds2\mds2\obj\Debug\net8.0\refint\mds2.dll
+C:\Users\lmartiniquinteros\mds2\mds2\mds2\obj\Debug\net8.0\mds2.pdb
+C:\Users\lmartiniquinteros\mds2\mds2\mds2\obj\Debug\net8.0\mds2.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\mds2\mds2\mds2\obj\Debug\net8.0\ref\mds2.dll
